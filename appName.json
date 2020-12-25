@@ -1,0 +1,30 @@
+{
+	"rss": [
+		{
+			"url": "https://anchor.fm/s/11557894/podcast/rss",
+			"channel": {
+				"title": "stream of random",
+				"itunes_keywords": [],
+				"itunes_owner": {},
+				"itunes_category": [
+					{
+						"itunes_category2": [
+							{
+								"itunes_category3": [
+									"Three Levels of\n                categories"
+								]
+							}
+						]
+					}
+				],
+				"item": [
+					{
+						"enclosure": [
+							{}
+						]
+					}
+				]
+			}
+		}
+	]
+}
