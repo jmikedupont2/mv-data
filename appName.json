@@ -10,9 +10,7 @@
 					{
 						"itunes_category2": [
 							{
-								"itunes_category3": [
-									"Three Levels of\n                categories"
-								]
+								"itunes_category3": "Three Levels of\n                categories"
 							}
 						]
 					}
@@ -21,7 +19,17 @@
 					{
 						"enclosure": [
 							{}
-						]
+						],
+						"podcast_soundbite": [
+							{}
+						],
+						"podcast_chapters": {
+							"podcast_chapter": [
+								{
+									"toc": true
+								}
+							]
+						}
 					}
 				],
 				"link": "https://twitter.com/jmikedupontcell/",
