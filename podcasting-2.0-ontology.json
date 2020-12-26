@@ -1,0 +1,16 @@
+{
+	"rdfs:label": [
+		"startTime",
+		"endTime",
+		"body",
+		"body"
+	],
+	"rdfs:comment": [
+		"The start time of the segment expressed as the number of seconds with a decimal point from the beginning of the work.",
+		"The PODCAST ontology specifies the set of classes and properties to represent the podcasting 2.0 namespace.",
+		"The end time of the segment (if available) expressed as the number of seconds with a decimal point from the beginning of the work.",
+		"Dialogue content.",
+		"Speaker"
+	],
+	"owl:versionInfo": "v1"
+}
